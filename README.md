@@ -32,7 +32,7 @@ This project is a dynamic dashboard widget management system built with Vite, Re
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/username/Dynamic-Widget-Dashboard.git
-   cd dashboard-widget
+   cd Dynamic-Widget-Dashboard
 
 2. **Install Dependencies**:
 - **Using npm**:
